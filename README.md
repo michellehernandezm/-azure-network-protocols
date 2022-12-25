@@ -3,7 +3,7 @@
 </p>
 
 <h1>Microsoft Azure - Computing and Networking </h1>
-This tutorial outlines the process of creating resource groups,virtual networks, network security groups, and subnets in Azure. <br />
+This tutorial outlines the process of creating resource groups, virtual networks, network security groups, and subnets in Azure. <br />
 
 
 <h2>Environments and Technologies Used</h2>
