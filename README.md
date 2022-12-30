@@ -19,8 +19,6 @@ This tutorial outlines the process of creating resource groups, virtual networks
 -Windows and Linux (Ubuntu) for Azure Virtual Machines.
 -Wireshark
 
-<h2> Video </h2>
-https://clipchamp.com/watch/Wn8LPzyR6YQ
 <h2>Installation Steps</h2>
 
 
